@@ -1,2 +1,2 @@
 # Reply Keyboard Markup
-![keyboard](/images/keyboard.png)
+![keyboard](/Examples/keyboard/images/keyboard.png)
